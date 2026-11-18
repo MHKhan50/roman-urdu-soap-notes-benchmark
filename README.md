@@ -1,5 +1,7 @@
 # Roman Urdu SOAP Notes Benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24339413.svg)](https://doi.org/10.5281/zenodo.24339413)
+
 Do small language models that run on a clinic's own computer write English physiotherapy SOAP notes from **Roman Urdu** consultations as safely as from English ones?
 
 This repository holds the data, code, results and paper for that question: 20 fictional physiotherapy consultations, each in English and Roman Urdu with identical facts, 168 listed facts (68 critical), automatic checks for omissions, body region and the injured side, and a blinded review of 50 notes by a panel of five physiotherapists.
