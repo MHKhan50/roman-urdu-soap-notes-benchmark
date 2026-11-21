@@ -40,4 +40,15 @@ All consultations are fictional and written for this study. No patient data were
 
 ## Citation
 
+```bibtex
+@misc{hussain2026soap,
+  author    = {Hussain, Muzammal and Khalid, Maryam},
+  title     = {{Lost in Roman Urdu: Small Local Language Models Drop Red Flags, Body Parts and Laterality When Drafting Physiotherapy Notes}},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24339413},
+  url       = {https://doi.org/10.5281/zenodo.24339413}
+}
+```
+
 See [`CITATION.cff`](CITATION.cff). Code is released under the MIT licence.
