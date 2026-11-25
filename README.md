@@ -46,9 +46,11 @@ All consultations are fictional and written for this study. No patient data were
   title     = {{Lost in Roman Urdu: Small Local Language Models Drop Red Flags, Body Parts and Laterality When Drafting Physiotherapy Notes}},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.24339413},
-  url       = {https://doi.org/10.5281/zenodo.24339413}
+  doi       = {10.5281/zenodo.24463124},
+  url       = {https://doi.org/10.5281/zenodo.24463124}
 }
 ```
+
+Software (code, notebooks, results): [doi:10.5281/zenodo.24339413](https://doi.org/10.5281/zenodo.24339413).
 
 See [`CITATION.cff`](CITATION.cff). Code is released under the MIT licence.
